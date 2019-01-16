@@ -1,0 +1,44 @@
+/*
+Theme Name: Bootstrap
+
+*/
+
+.btn-default {
+	margin-top: 7px
+}
+
+
+.jumbotron {
+	background-image: url(images/cit.jpg) ;
+    color: #fff;
+    background-size: cover;
+    background-repeat: round;
+    text-align: left;
+}
+
+.pull-left p a{
+	float: left;
+	margin-right: 3%;
+	text-align: justify;
+}
+
+.pull-left p img {
+	display: inline-block;
+	max-width: 100%;
+	height: auto;
+	padding: 4px;
+	line-height: 1.42857143;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	transition: all .2s ease-in-out;
+	font-size: 20px;
+}
+
+.widget-title {
+	border-bottom: 1px solid #333;
+    font-weight: bold;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #333;
+}
